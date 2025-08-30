@@ -136,6 +136,36 @@
         <mxCell id="aKuSgMPyaAPeaiffdltA-46" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-58" value="数据库管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="500" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-59" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-60" value="数据共享交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="620" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-62" value="原始库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-63" value="资源库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="705" y="560" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-64" value="主题库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="815" y="560" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-65" value="专题库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-66" value="数据资源库" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKuSgMPyaAPeaiffdltA-67" value="数据库服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="510" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
