@@ -133,8 +133,8 @@
         <mxCell id="aKuSgMPyaAPeaiffdltA-45" value="流程引擎" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="417" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aKuSgMPyaAPeaiffdltA-46" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="500" width="120" height="110" as="geometry" />
+        <mxCell id="aKuSgMPyaAPeaiffdltA-46" value="数据资源层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aKuSgMPyaAPeaiffdltA-58" value="数据库管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="500" width="80" height="150" as="geometry" />
